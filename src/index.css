@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Cabin+Sketch');
+
 body {
   margin: 0;
   padding: 0;
@@ -6,6 +8,13 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  /* background-image: url('./assets/images/bg.jpg'); */
+  background-image: url('https://mkskimgmodrykonik.vshcdn.net/CVmk40Irukc_s1600x1600.jpg');
+  background-attachment: fixed;
+  background-position: center;
+  background-origin: border-box;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 code {
